@@ -1,4 +1,4 @@
-#include "DxLib.h"
+#include <DxLib.h>
 #include<string>
 #include<stdlib.h>
 #include<time.h>
